@@ -1,0 +1,9 @@
+title: Wannabe Vagabonds
+baseurl: ""
+url: "http://www.vagabonds.lt"
+
+markdown: kramdown
+paginate: 10
+paginate_path: "/page:num/"
+
+gems: [jekyll-paginate]

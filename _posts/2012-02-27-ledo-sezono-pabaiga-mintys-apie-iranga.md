@@ -1,0 +1,28 @@
+---
+layout: post
+title: Ledo sezono pabaiga, mintys apie įrangą ir ateities planai
+author: Martynas
+tags: 
+---
+
+Savaitgalį antrą kartą bandėm užlipti Mistica kuluarą ant Torre Innerkofler, tačiau dėl aukštos temperatūros, didelio lavinų pavojaus ir ne to pasirinkto priėjimui kuluaro teko apie pietus pasukti atgal. Beeidami žemyn puikiai abu supratom, kad ledo laipiojimo sezonas jau pasibaigė. Iš viso nuo sausio mėnesio vidurio (kada parsiradome atgal į Bozen'ą po atostogų) iki dabar lipome 9 dienas, pralipome kiekvienas virš 30 top-rope'ų, 4 multi-pitch'us, kurių sudėtingumas svyravo nuo WI 3+ iki WI 5+, kas yra, mano galva, visai neblogai kaip pirmam rimtesniam sezonui. Prieš pradėdami lipti nusprendėme pasinaudoti Will Gadd [patarimu](http://willgadd.com/?p=576) - lipti kuo daugiau su viršutine sauga, kad galėtume atkalti techniką, o tik paskui imtis apatinės saugos (aišku su išimtim). Siūlau pasinaudoti šiuo patarimu ne tik ketinantiems pradėti laipioti ledu, bet ir praktikuojantiems - >10 top-rope'ų technikai atneš daugiau naudos negu 3 virvės užkaltom rankom bandant įsukti ledsriegį.
+
+{% include img p="0-small.jpg" u="0.jpg" t="\"F***, ne tas kuluaras\". Pakeliui link Innerkofler'io." %}
+
+<!--break-->
+
+Kadangi, kaip minėjau, rimtesnis sezonas buvo pirmas mums abiems, todėl teko išbandyti nemažai naujos įrangos (ačiū [Montis Magiai](http://www.montismagia.lt/)!). Šiek tiek apie įrangą.
+
+Ledsriegiai. Su ledsregiais padarėme didelę klaidą - įsigijome per daug ilgų ledsriegių (19 cm arba [BD šviesiai mėlyna rankenėlė](http://www.blackdiamondequipment.com/en-eur/shop/climb/ice-protection/express-ice-screw)) ir tik keletą trumpesnių (16cm ir 13 cm). Sukant ilgesnį ledsriegį sunaudoji daugiau jėgų ir didesnė tikimybė, kad jis pataikys į uolą, o tada ledsriegis pasidaro be pagalandimo (kas be specialių staklių yra ganėtinai [sunku](http://www.youtube.com/watch?v=6VFaW0GTMT0)) sunkiai naudojamas, kas nutiko mums. Be to, trumpesni ledsregiai laiko ne ką [mažiau](http://www.needlesports.com/catalogue/content.aspx?con_id=095232e4-4caf-49ec-8495-9c9e00a633da). Jei tektų dabar rinktis, tai pilnai užtektų 8-nių ledsregių - 2 ilgesnių (19 cm) stotims ir abalakovams ir 6 trumpesnių (16cm ir 13 cm). Vis tiek "ledas - tai ne sportinis laipiojimas" - daug neprisuksi;-)
+
+Ledkirčiai. Aš lipau su savo pamėgtom [BD Cobrom](http://www.blackdiamondequipment.com/en-eur/shop/climb/technical-ice-tools/cobra-ice-tool), kurios galvoju yra geriausi mano bandyti ledkirčiai tiek dėl ergonomijos, tiek dėl svorio, nepaisant karbono apsaugos, kuri nesunkiai pradeda luptis nuo atsitrenkimo į uolas (sprendimas - izoliacinė juosta), o Laura su naujutėlaičiais [Nomic](http://www.petzl.com/en/outdoor/ice-climbing-tools/nomic)'ais, kurie šiek tiek nuvylė - ledkirčio snapo (?) pirmas dantis yra didelio kampo, todėl norint ištraukti ledkirtį tenka kartais neprastai pavargti. Pasirodo Petzl nebegamina senų snapų, kurie neturėjo tokios [bėdos](http://coldthistle.blogspot.com/2012/02/petzl-ice-pick-issue.html). Tiek Laura, tiek aš lipome leashless, tačiau prisitvirtinę ledkirčius prie ekstenderių. Po kurio laiko išmokau keisti įrankius rankom per daug nepripainiojant.
+
+Pirštinės. Abu išbandėm [BD Guide](http://www.blackdiamondequipment.com/en-eur/shop/mountain/gloves/guide-glove)'us (saugojimui) ir [BD Punisher](http://www.blackdiamondequipment.com/en-us/shop/climb/climbing-gloves/punisher-glove/)'ius (lipimui). Laurai antrosios pasirodė kaip tik, man jos laipiojant tik ledais (ne kalnuose) per šiltos, nes dažnai net neįpusėjus lipimui rankos suprakaituodavo, dėl ko paskui šaldavo. Taip pat, gan greitai sušlapdavo pirštinių išorė nuo sniego ir šlapesnių krioklių (galbūt dėl to, kad vidus būdavo sudrėkęs?). Tuo tarpu Guide'us keistume į kumštines pirštines, nes su jais dėl jų dydžio per daug nieko nenuveiksi, o šilumos vis tiek daugiau kumštinėse (nors tiesą sakant ne tik pirštinės lemia, kaip bus šalta rankom, yra ir daugiau veiksnių, kaip patys įsitikinome - skysčių trūkumas, nepasikeitimas pirštinių į šiltesnes saugojimo metu ir t.t.).
+
+Katės. Abu lipome su [BD Cyborg](http://www.blackdiamondequipment.com/en-eur/shop/climb/crampons/cyborg-crampon)'ais, tik aš su senesniais, pagamintais ne iš nerūdijančio plieno. Nusiskundimų neturim, tačiau nesu tikras, ar Spantik'ams nėra geriau tinkančių kačių, nes maniškės šiek tiek vaikščiojo į šonus.  Tiesa, savųjų pasitrumpinau dirželį, nes nusibodo pastoviai daryti papildomus mazgus.
+
+Batai. Turėjome vilčių nuvykti žiemą į Chamonix (planas neišdegė), todėl reikėjo šiltos avalynės. Pasirinkome [La Sportivos Spantik](http://www.sportiva.com/products/footwear/mountain/spantik)'us. Bijojau, kad su jais bus per karšta laipioti ledu, tačiau su plona kojine buvo OK. Laura, kuriai pastoviai šąla kojos, nesiskundė nė karto. Kai teko nakvoti prie nemažo minuso lauke, iš pradžių buvo šalta kojom, tačiau užsidėjus vidinius Spantik'ų batelius, situacija iš karto pagerėjo. Taip pat džiugina galimybė užsirišti (ir užsiveržti) batus su pirštinėm.
+
+-- 
+
+O dabar pats laikas trauktis batelius, pradėt tyrinėti Dolomitų multi-pitch'us, bei treniruotis! Tam reikalui bandysiu bėgioti ilgus nuotolius 2 arba 3 kartus per savaitę ir 2 kartus laipioti su virve salėj (kartais paboulderinti) iki vasaros, o savaitgaliais kiek galima daugiau ant uolų. Jokios konkrečios treniruočių programos nesu radęs, tačiau geriausiai tai, kas dabar verda mano galvoj, reziumuoja [šis rašinys](http://www.andy-kirkpatrick.com/blog/view/binman_fitness). Savo treniruočių log'us dėsime [čia](http://attackpoint.org/log.jsp/user_4100) ir [čia](http://attackpoint.org/log.jsp/user_8670).
